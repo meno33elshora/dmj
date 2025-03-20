@@ -14,7 +14,7 @@ It contains a set of features.
 <div>
  <img src="https://github.com/user-attachments/assets/cc1d74cb-7494-4dbd-95d3-808647631a08.png" width = 300 , hight = 300> 
 <img src="https://github.com/user-attachments/assets/b91e6720-1819-4486-ac54-0f1391939b9b.png" width = 300 , hight = 300> 
-<img src="https://github.com/user-attachments/assets/68342f24-e786-4fe8-a29e-eead31f23e31" width = 300 , hight = 300> 
+<img src="https://github.com/user-attachments/assets/68342f24-e786-4fe8-a29e-eead31f23e31.png" width = 300 , hight = 300> 
 <img src="https://github.com/user-attachments/assets/75025bb0-a19a-4750-94b9-ff67d3491310.png" width = 300 , hight = 300> 
 <img src="https://github.com/user-attachments/assets/b2092afb-318e-4c25-981a-c9e68a90aeac.png" width = 300 , hight = 300> 
 <img src="https://github.com/user-attachments/assets/a3a81e6d-f646-4887-8767-508f3eb66763.png" width = 300 , hight = 300> 
