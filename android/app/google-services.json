@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "109819209780",
+    "project_id": "dokkan-5212e",
+    "storage_bucket": "dokkan-5212e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109819209780:android:23bc3ff7e31b7813e58261",
+        "android_client_info": {
+          "package_name": "com.example.demo_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109819209780-im5pf5eq3onugi9i317004mbpi98cc7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYTCoSy8-N8b4lq2k78NL_as-aY3OhpTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109819209780-im5pf5eq3onugi9i317004mbpi98cc7n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "109819209780-3e62li44m468b51msjeblm66fnvrdlb0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dokkanFirebase.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109819209780:android:711f8660c37e4dece58261",
+        "android_client_info": {
+          "package_name": "com.example.dmj_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109819209780-im5pf5eq3onugi9i317004mbpi98cc7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYTCoSy8-N8b4lq2k78NL_as-aY3OhpTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109819209780-im5pf5eq3onugi9i317004mbpi98cc7n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "109819209780-3e62li44m468b51msjeblm66fnvrdlb0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dokkanFirebase.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
